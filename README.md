@@ -1,16 +1,96 @@
-# React + Vite
+# Project-3 (Workflow Builder)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visual workflow builder application that allows users to create, drag, and connect nodes dynamically.  
+This project demonstrates core frontend concepts such as component-based architecture, state management, and interactive UI behavior.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## React Compiler
+**Project-3 (Workflow Builder)** is a React-based application designed to simulate how workflows are created in real-world tools like automation platforms and visual editors. Users can visually arrange nodes and establish connections between them to represent a workflow.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was built as a hands-on learning exercise to strengthen skills in modern frontend development.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React**
+- **Vite**
+- **JavaScript (ES6+)**
+- **Tailwind CSS**
+- **HTML & CSS**
+
+---
+
+## ✨ Features
+
+- Draggable workflow nodes
+- Visual node connections
+- Modular and reusable node components
+- Clean and responsive UI
+- Fast development setup using Vite
+
+---
+
+## 📂 Project Structure
+
+Project-3-workflow-builder/
+│
+├── src/
+│ ├── assets/
+│ ├── App.jsx
+│ ├── Node.jsx
+│ ├── utils.js
+│ ├── main.jsx
+│ ├── index.css
+│ └── App.css
+│
+├── public/
+├── index.html
+├── package.json
+├── vite.config.js
+├── .gitignore
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Tiku57/Project-3-workflow-builder.git
+
+# Navigate to the project directory
+cd Project-3-workflow-builder
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+Open your browser and visit:
+
+arduino
+Copy code
+http://localhost:5173
+🎯 Learning Outcomes
+Understanding React component architecture
+
+Managing UI state and interactions
+
+Handling drag-and-drop logic
+
+Building scalable and modular frontend applications
+
+Working with modern build tools like Vite
+
+👨‍💻 Author
+Tiku57
+GitHub: https://github.com/Tiku57
+
