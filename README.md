@@ -74,11 +74,11 @@ npm install
 
 # Start the development server
 npm run dev
-Open your browser and visit:
 
-arduino
-Copy code
+Open your browser and visit:
 http://localhost:5173
+```
+
 🎯 Learning Outcomes
 Understanding React component architecture
 
