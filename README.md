@@ -81,16 +81,13 @@ http://localhost:5173
 
 🎯 Learning Outcomes
 Understanding React component architecture
-
 Managing UI state and interactions
-
 Handling drag-and-drop logic
-
 Building scalable and modular frontend applications
-
 Working with modern build tools like Vite
 
 👨‍💻 Author
-Tiku57
+Aaditya Sattawan
+
 GitHub: https://github.com/Tiku57
 
