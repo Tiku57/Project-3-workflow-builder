@@ -1,4 +1,7 @@
 # Project-3 (Workflow Builder)
+```
+This project was developed during the Winter Internship '25 at console.success.
+```
 
 A visual workflow builder application that allows users to create, drag, and connect nodes dynamically.  
 This project demonstrates core frontend concepts such as component-based architecture, state management, and interactive UI behavior.
