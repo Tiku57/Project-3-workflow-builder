@@ -33,31 +33,6 @@ This project was built as a hands-on learning exercise to strengthen skills in m
 
 ---
 
-## 📂 Project Structure
-
-Project-3-workflow-builder/
-│
-├── src/
-│ ├── assets/
-│ ├── App.jsx
-│ ├── Node.jsx
-│ ├── utils.js
-│ ├── main.jsx
-│ ├── index.css
-│ └── App.css
-│
-├── public/
-├── index.html
-├── package.json
-├── vite.config.js
-├── .gitignore
-└── README.md
-
-yaml
-Copy code
-
----
-
 ## ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
@@ -78,16 +53,17 @@ npm run dev
 Open your browser and visit:
 http://localhost:5173
 ```
-
+---
 🎯 Learning Outcomes
-Understanding React component architecture
-Managing UI state and interactions
-Handling drag-and-drop logic
-Building scalable and modular frontend applications
-Working with modern build tools like Vite
 
+- Understanding React component architecture
+- Managing UI state and interactions
+- Handling drag-and-drop logic
+- Building scalable and modular frontend applications
+- Working with modern build tools like Vite
+---
 👨‍💻 Author
 Aaditya Sattawan
-
+---
 GitHub: https://github.com/Tiku57
 
